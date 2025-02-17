@@ -39,3 +39,14 @@ next-env.d.ts
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+# python virtual environment
+venv/
+
+# Other files and directories to ignore
+node_modules/
+dist/
+build/
+.DS_Store
+
+
